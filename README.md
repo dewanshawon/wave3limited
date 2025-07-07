@@ -274,4 +274,4 @@ This project is proprietary software owned by Wave 3 Limited. All rights reserve
 
 ---
 
-**Developed with ❤️ by the Wave 3 Limited Team** 
+**Developed with ❤️ by the Wave 3 Limited Lead developer Md. Yeaasine Dewan Shawon** 
