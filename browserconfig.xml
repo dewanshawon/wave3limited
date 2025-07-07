@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="assets/WAVElogo01.png"/>
+            <square310x310logo src="assets/WAVElogo01.png"/>
+            <square70x70logo src="assets/WAVElogo01.png"/>
+            <TileColor>#2563eb</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig> 
